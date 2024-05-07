@@ -29,5 +29,5 @@ void siswa::displayAll(orang& a)
 }
 void orang::setNama(string pNama)
 {
-	cout << pNama;
+	nama = pNama;
 }
